@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P001",
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1099.99,
+    "quantity": 100
+  },
+  {
+    "id": "P002",
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 1199.99,
+    "quantity": 50
+  },
+  {
+    "id": "P003",
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "quantity": 200
+  },
+  {
+    "id": "P004",
+    "name": "Apple MacBook Pro 16-inch",
+    "price": 2399.99,
+    "quantity": 80
+  },
+  {
+    "id": "P005",
+    "name": "LG OLED C1 Series 65-inch TV",
+    "price": 2299.99,
+    "quantity": 150
+  },
+  {
+    "id": "P006",
+    "name": "Bose QuietComfort 45 Headphones",
+    "price": 329.99,
+    "quantity": 120
+  },
+  {
+    "id": "P007",
+    "name": "DJI Mavic Air 2 Drone",
+    "price": 799.99,
+    "quantity": 90
+  },
+  {
+    "id": "P008",
+    "name": "GoPro HERO10 Black",
+    "price": 499.99,
+    "quantity": 180
+  },
+  {
+    "id": "P009",
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "quantity": 70
+  },
+  {
+    "id": "P010",
+    "name": "Samsung Odyssey G9 49-inch Gaming Monitor",
+    "price": 1499.99,
+    "quantity": 110
+  },
+  {
+    "id": "P011",
+    "name": "Microsoft Surface Laptop Studio",
+    "price": 1599.99,
+    "quantity": 40
+  },
+  {
+    "id": "P012",
+    "name": "Sony WH-1000XM4 Wireless Headphones",
+    "price": 349.99,
+    "quantity": 250
+  },
+  {
+    "id": "P013",
+    "name": "Canon EOS R5 Mirrorless Camera",
+    "price": 3899.99,
+    "quantity": 85
+  },
+  {
+    "id": "P014",
+    "name": "NVIDIA GeForce RTX 3090 Graphics Card",
+    "price": 1499.99,
+    "quantity": 60
+  },
+  {
+    "id": "P015",
+    "name": "Razer BlackWidow V3 Pro Mechanical Keyboard",
+    "price": 229.99,
+    "quantity": 130
+  },
+  {
+    "id": "P016",
+    "name": "Samsung Odyssey G9 49-inch Gaming Monitor",
+    "price": 1499.99,
+    "quantity": 75
+  },
+  {
+    "id": "P017",
+    "name": "Nest Learning Thermostat",
+    "price": 249.99,
+    "quantity": 170
+  },
+  {
+    "id": "P018",
+    "name": "Xbox Series X",
+    "price": 499.99,
+    "quantity": 95
+  },
+  {
+    "id": "P019",
+    "name": "Lenovo Legion 7i Gaming Laptop",
+    "price": 1999.99,
+    "quantity": 55
+  },
+  {
+    "id": "P020",
+    "name": "Sonos Arc Soundbar",
+    "price": 799.99,
+    "quantity": 140
+  }
+]

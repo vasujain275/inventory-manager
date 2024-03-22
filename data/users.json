@@ -1,0 +1,10 @@
+[
+  {
+    "email": "admin@storex.com",
+    "password": "password1"
+  },
+  {
+    "email": "admin@excelgoods.com",
+    "password": "password2"
+  }
+]
