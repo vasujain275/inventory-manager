@@ -10,7 +10,6 @@ import com.focp2.repository.ProductRepository;
 import com.focp2.repository.UserRepository;
 import com.focp2.service.AuthService;
 import com.focp2.service.InventoryService;
-import com.focp2.util.JsonFileManager;
 import com.focp2.view.InventoryView;
 import com.focp2.view.InputView;
 import com.focp2.cli.WelcomeScreen;
