@@ -56,7 +56,7 @@
     {
         "quantity": 110,
         "price": 1499.99,
-        "name": "Samsung Odyssey G9 49-inch Gaming Monitor",
+        "name": "Samsung Odyssey G9 Monitor",
         "id": "P010"
     },
     {
@@ -86,13 +86,13 @@
     {
         "quantity": 130,
         "price": 229.99,
-        "name": "Razer BlackWidow V3 Pro Mechanical Keyboard",
+        "name": "Razer BlackWidow Keyboard",
         "id": "P015"
     },
     {
         "quantity": 75,
         "price": 1499.99,
-        "name": "Samsung Odyssey G9 49-inch Gaming Monitor",
+        "name": "Samsung Odyssey G9 Monitor",
         "id": "P016"
     },
     {

@@ -4,15 +4,19 @@ import com.focp2.model.Product;
 import java.util.List;
 
 public class InventoryView {
+
     public void displayProducts(List<Product> products) {
         if (products.isEmpty()) {
             System.out.println("No products available.");
         } else {
-            System.out.println("Product ID | Product Name | Price | Quantity");
+            System.out.println("-----------------------------------------------------------------------------");
+            System.out.printf("| %-10s | %-40s | %-10s | %-8s |\n", "Product ID", "Product Name", "Price", "Quantity");
+            System.out.println("-----------------------------------------------------------------------------");
             for (Product product : products) {
-                System.out.println(product.getId() + " | " + product.getName() + " | " +
-                        product.getPrice() + " | " + product.getQuantity());
+                System.out.printf("| %-10s | %-40s | $%-9.2f | %-8d |\n",
+                        product.getId(), product.getName(), product.getPrice(), product.getQuantity());
             }
+            System.out.println("-----------------------------------------------------------------------------");
         }
     }
 
