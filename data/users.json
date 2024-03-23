@@ -6,5 +6,9 @@
   {
     "email": "admin@excelgoods.com",
     "password": "password2"
+  },
+  {
+    "email": "admin@ystore.com",
+    "password": "password3"
   }
 ]
